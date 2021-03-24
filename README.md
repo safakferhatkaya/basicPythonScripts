@@ -1,10 +1,10 @@
 # Basic Python Scripts
-1- ##SudoCatcher_wPython
+##1- SudoCatcher_wPython
 When you run this code in the terminal, 
 it can perform the same task as the terminal and let you run the same commands, 
 capturing the entered "sudo" commands and keeping their record in the log.txt file.
 
-2- ##Chrome_History_Visualizer
+##2- Chrome_History_Visualizer
 
 This code accesses the historical search data that google chrome stores in local via sqlite3, then manipulates the list and retrieves the netloc part of the url. then it visualizes them by creating wordcloud.
 
@@ -31,7 +31,7 @@ here is the example outputs.
 --parts that can be improved--
 The ability to instantly monitor the web movements and give a warning with a pop-up window when logging in to the site without SSL certificate
 
-3- ##Announcer Discord Bot
+##3- Announcer Discord Bot
 
 This bot goes to the web address of my department and notifies its database (basic txt file) if there is a new announcement by comparing the last announcement with the last announcement on the site.
 
