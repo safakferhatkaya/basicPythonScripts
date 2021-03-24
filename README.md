@@ -32,7 +32,7 @@ here is the example outputs.
 --parts that can be improved--
 The ability to instantly monitor the web movements and give a warning with a pop-up window when logging in to the site without SSL certificate
 
-## 3- Announcer Discord Bot##
+## 3- Announcer Discord Bot
 
 This bot goes to the web address of my department and notifies its database (basic txt file) if there is a new announcement by comparing the last announcement with the last announcement on the site.
 
