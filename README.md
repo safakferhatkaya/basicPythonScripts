@@ -1,5 +1,5 @@
 # Basic Python Scripts
-##1- SudoCatcher_wPython##
+## 1- SudoCatcher_wPython
 
 When you run this code in the terminal, 
 it can perform the same task as the terminal and let you run the same commands, 
